@@ -1,5 +1,5 @@
 <h2> Hi, I'm Cecilia Arias! <img src="https://64.media.tumblr.com/2768e091bb543847123d009a9dd9cda4/tumblr_olxe276oAh1u1eojzo1_r1_1280.gifv" width="50"></h2>
-<img align='right' src=https://github.com/Zhea606/Zhea606/assets/69162988/eb720a3c-b16f-49bc-8713-f1789d34f087 width="400">
+<img align='right' src=https://github.com/Zhea606/Zhea606/assets/69162988/eb720a3c-b16f-49bc-8713-f1789d34f087 width="350">
 <p><em>Software Developer <a href="http://www.unb.br">University of Mendoza</a></br>Videogames developer as <a href="https://www.thoughtworks.com">freelancer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
