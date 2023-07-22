@@ -12,9 +12,11 @@
 const zhea606 = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, C# , C++],
-  tools: [React, Node, Sass, Figma, Miro, Adobe Photoshop, Canvas, Trello],
+  tools: [React, Node, Sass, Figma, Miro, Adobe Photoshop, Canvas,
+          Trello],
   videogames: [Unreal, Unity],
-  architecture: ["object-oriented programming", "design system pattern"],
+  architecture: ["object-oriented programming", "design system
+                 pattern"],
   techCommunities: {
                        Underc0de AR,
                        Videogame Community MZA
