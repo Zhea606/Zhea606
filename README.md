@@ -19,7 +19,8 @@ const zhea606 = {
                        Underc0de AR,
                        Videogame Community MZA
                       },
-  passions:  ["videogames development", "frontend development", "storytelling", "game design"],
+  passions:  ["videogames development", "frontend development",
+              "storytelling", "game design"],
 
 }
 ```
