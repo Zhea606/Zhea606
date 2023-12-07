@@ -29,4 +29,11 @@ const zhea606 = {
 
 <img src="https://i.pinimg.com/originals/7c/0b/42/7c0b4272e3b644d54d5ed0149631ed6c.gif" width="60"> <em><b>I love learn about everything and connect with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+
+
+https://github.com/Zhea606/Zhea606/assets/69162988/cba51712-c67a-43ee-b91c-3e7dfae5e28e
+
+
+
+
 ---
