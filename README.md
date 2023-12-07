@@ -14,7 +14,7 @@ const zhea606 = {
   code: [Javascript, HTML, CSS, C# , C++],
   tools: [React, Node, Sass, Figma, Miro, Adobe Photoshop, Canvas,
           Trello],
-  videogames: [Unreal, Unity],
+  videogames: [Unreal, Unity, Godot],
   architecture: ["object-oriented programming", "design system
                  pattern"],
   techCommunities: {
